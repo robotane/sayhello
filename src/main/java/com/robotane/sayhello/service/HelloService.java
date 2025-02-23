@@ -2,7 +2,7 @@ package com.robotane.sayhello.service;
 
 import static java.io.File.createTempFile;
 
-import com.my.company.file.bucket.BucketComponent;
+import com.robotane.sayhello.file.bucket.BucketComponent;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
