@@ -1,4 +1,4 @@
-package com.robotane.sayhello.service;
+package com.robotane.sayhello.endpoint.rest.controller;
 
 import static java.io.File.createTempFile;
 
